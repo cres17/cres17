@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Moon Junseok" width="100%">
+<img src="assets/banner.svg" alt="Moon Junseok" width="100%">
 
 <h2>탄탄한 기능 위에 편안한 경험을 더하고,<br>새로운 도전과 협업으로 더 나은 서비스를 만드는 개발자입니다.</h2>
 
