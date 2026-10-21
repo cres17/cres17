@@ -8,7 +8,7 @@
   </defs>
   <style>
     .bg{fill:#fbfbfd}
-    .o1{fill:#5ac8fa}.o2{fill:#af52de}.o3{fill:#ff9f0a}
+    .o1{fill:#5ac8fa}.o2{fill:#af52de}.o3{fill:#ff9f0a}.o4{fill:#30d158}
     .orb{opacity:.55}
     .i0{stop-color:#1d1d1f}.i1{stop-color:#6e6e73}
     .sub{fill:#6e6e73}
@@ -26,13 +26,15 @@
     .fade{opacity:0;animation:up 1.4s cubic-bezier(.16,1,.3,1) forwards}
     .d1{animation-delay:.2s}
     @keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
-    .a1{animation:m1 16s ease-in-out infinite alternate}
-    .a2{animation:m2 19s ease-in-out infinite alternate}
-    .a3{animation:m3 22s ease-in-out infinite alternate}
-    @keyframes m1{to{transform:translate(260px,40px)}}
-    @keyframes m2{to{transform:translate(-220px,-30px)}}
-    @keyframes m3{to{transform:translate(-160px,50px)}}
-    @media (prefers-reduced-motion: reduce){.a1,.a2,.a3,.fade{animation:none;opacity:1}.orb{opacity:.5}}
+    .a1{animation:m1 11s ease-in-out infinite}
+    .a2{animation:m2 13s ease-in-out infinite}
+    .a3{animation:m3 9s ease-in-out infinite}
+    .a4{animation:m4 12s ease-in-out infinite}
+    @keyframes m1{0%,100%{transform:translate(0,0)}25%{transform:translate(380px,70px)}50%{transform:translate(620px,-20px)}75%{transform:translate(240px,110px)}}
+    @keyframes m2{0%,100%{transform:translate(0,0)}25%{transform:translate(-300px,-90px)}50%{transform:translate(-520px,20px)}75%{transform:translate(-180px,-60px)}}
+    @keyframes m3{0%,100%{transform:translate(0,0)}33%{transform:translate(-420px,90px)}66%{transform:translate(-760px,40px)}}
+    @keyframes m4{0%,100%{transform:translate(0,0)}33%{transform:translate(320px,-120px)}66%{transform:translate(560px,-40px)}}
+    @media (prefers-reduced-motion: reduce){.a1,.a2,.a3,.a4,.fade{animation:none;opacity:1}.orb{opacity:.5}}
   </style>
   <g clip-path="url(#clip)">
     <rect class="bg" width="1200" height="360"/>
@@ -40,6 +42,7 @@
       <circle class="orb o1 a1" cx="260" cy="120" r="130"/>
       <circle class="orb o2 a2" cx="760" cy="260" r="150"/>
       <circle class="orb o3 a3" cx="1000" cy="90" r="110"/>
+      <circle class="orb o4 a4" cx="120" cy="300" r="100"/>
     </g>
     <g text-anchor="middle">
       <text class="t fade d1" x="600" y="212" fill="url(#ink)">Moon Junseok</text>
