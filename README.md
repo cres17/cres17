@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-silver.svg" alt="Moon Junseok" width="100%">
+<img src="assets/banner-moon.svg" alt="Moon Junseok" width="100%">
 
 <h2>탄탄한 기능 위에 편안한 경험을 더하고,<br>새로운 도전과 협업으로 더 나은 서비스를 만드는 개발자입니다.</h2>
 
@@ -27,8 +27,8 @@
 
 | 기간 | 과정 | 주관 | 상태 | 시간 |
 | :-- | :-- | :-- | :-- | :-- |
-| 〔2025.12〕 | **Google Cloud 입문 · 심화 과정** | 「천안과학산업진흥원」 | 수료 | 〔60h〕 |
-| 〔2026.04 ~ 06〕 | **AWS 공인 교육** | 「ICT 이노베이션스퀘어」 | 수료 | 〔160h〕 |
+| 〔2025.12〕 | **Google Cloud 입문 · 심화 과정** | 「천안과학산업진흥원」 | 수료 | 60h |
+| 〔2026.04 ~ 06〕 | **AWS 공인 교육** | 「ICT 이노베이션스퀘어」 | 수료 | 160h |
 | 〔2026.07 ~〕 | **SKALA 4기** | 「SK AX」 | 진행 중 | - |
 
 ## Projects
