@@ -4,7 +4,8 @@
 <radialGradient id="bl" cx=".4" cy=".4" r=".8"><stop offset="0" stop-color="#9cc9ff"/><stop offset=".6" stop-color="#3f7dff"/><stop offset="1" stop-color="#1f4fd8"/></radialGradient>
 <clipPath id="c"><rect width="1200" height="260" rx="28"/></clipPath>
 <filter id="ab" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
-<filter id="fg" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="34"/></filter>
+<filter id="fg" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="fs" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
 <mask id="mk" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="260"><rect width="1200" height="260" fill="#000"/><circle cx="600" cy="130" r="110" fill="#fff"/><circle class="sh" cx="600" cy="130" r="110" fill="#000"/></mask>
 </defs>
 <style>
@@ -20,5 +21,6 @@ text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Ne
 </style>
 <g clip-path="url(#c)"><rect width="1200" height="260" fill="#02040a"/>
 <g filter="url(#ab)"><circle class="am" cx="180" cy="90" r="100" fill="#1f4fd8"/><circle class="am" cx="980" cy="180" r="110" fill="#0f7fa8"/></g>
-<g class="dr"><g filter="url(#fg)" opacity=".62"><circle cx="600" cy="130" r="110" fill="url(#bl)" mask="url(#mk)"/></g></g>
+<g class="dr"><g filter="url(#fg)" opacity=".5"><circle cx="600" cy="130" r="110" fill="url(#bl)" mask="url(#mk)"/></g>
+<g filter="url(#fs)" opacity=".42"><circle cx="600" cy="130" r="110" fill="url(#bl)" mask="url(#mk)"/></g></g>
 <text class="t f" x="600" y="150" text-anchor="middle" fill="url(#ink)">Moon Junseok</text></g></svg>
