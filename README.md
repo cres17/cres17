@@ -17,7 +17,7 @@
 <div align="center">
 
 | 분야 | 기술 |
-| :-- | :-- |
+|:---:|:---:|
 | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **AI · ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) |
 | **Backend · DB** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
@@ -31,7 +31,7 @@
 <div align="center">
 
 | 기간 | 과정 | 주관 | 상태 | 시간 |
-| :-- | :-- | :-- | :-- | :-- |
+|:---:|:---:|:---:|:---:|:---:|
 | 〔2025.12〕 | **Google Cloud 입문 · 심화 과정** | 「천안과학산업진흥원」 | 수료 | 60h |
 | 〔2026.04 ~ 06〕 | **AWS 공인 교육** | 「ICT 이노베이션스퀘어」 | 수료 | 160h |
 | 〔2026.07 ~〕 | **SKALA 4기** | 「SK AX」 | 진행 중 | - |
@@ -43,7 +43,7 @@
 <div align="center">
 
 | 프로젝트 | 설명 | 주요 기술 |
-| :-- | :-- | :-- |
+|:---:|:---:|:---:|
 | [**다온**](https://github.com/cres17/CapstoneDesign) | 영상통화 대화로 호감도 변화를 예측하는 소개팅 앱 (캡스톤). 호감도 예측 모델은 KoBigBird · GNTB · LSTM/CNN 결합 구조로 구현 | Flutter, WebRTC, Socket.IO, PyTorch, Flask |
 | [**Drift Gate**](https://github.com/cres17/pr-convention-checker) | 코드가 바뀌었는데 API 명세 · `.env.example` 등 문서가 따라오지 않은 PR을 YAML 정책으로 판정하는 도구 | Python, Tree-sitter, PySide6, React |
 | [**Book해도.**](https://github.com/cres17/bookhaedo) | 홋카이도 여행 일정을 동행자와 함께 짜고, 날씨가 바뀌면 공개 관광 자료를 근거로 대안 코스를 추천하는 웹 서비스 | Vue 3, Express, PostgreSQL · PostGIS, LangGraph.js |
