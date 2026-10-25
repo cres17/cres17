@@ -37,7 +37,7 @@
 | [**다온**](https://github.com/cres17/CapstoneDesign) | 영상통화 대화로 호감도 변화를 예측하는 소개팅 앱 (캡스톤). 호감도 예측 모델은 KoBigBird · GNTB · LSTM/CNN 결합 구조로 구현 | Flutter, WebRTC, Socket.IO, PyTorch, Flask |
 | [**Drift Gate**](https://github.com/cres17/pr-convention-checker) | 코드가 바뀌었는데 API 명세 · `.env.example` 등 문서가 따라오지 않은 PR을 YAML 정책으로 판정하는 도구 | Python, Tree-sitter, PySide6, React |
 | [**Book해도.**](https://github.com/cres17/bookhaedo) | 홋카이도 여행 일정을 동행자와 함께 짜고, 날씨가 바뀌면 공개 관광 자료를 근거로 대안 코스를 추천하는 웹 서비스 | Vue 3, Express, PostgreSQL · PostGIS, LangGraph.js |
-| [**Memoria**](https://github.com/cres17/memoria) | 서버 없이 기기 안에서 사진을 보정하고, 참조 사진의 색을 65³ LUT 필터로 만들어 다시 쓰는 iOS 사진 편집 앱 | Flutter, LiteRT, PyTorch → ONNX → TFLite, Swift |
+| [**Memoria**](https://github.com/cres17/memoria) | 서버 없이 기기 안에서 사진을 보정하고, 참조 사진의 색을 65³ LUT 필터로 만들어 다시 쓰는 iOS 사진 편집 앱 | Flutter, LiteRT, PyTorch → TFLite (litert-torch 직접 변환), Swift |
 
 ## Contact
 
