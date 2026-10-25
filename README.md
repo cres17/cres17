@@ -14,6 +14,8 @@
 
 ## Tech Stack
 
+<div align="center">
+
 | 분야 | 기술 |
 | :-- | :-- |
 | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
@@ -22,7 +24,11 @@
 | **App · Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
+</div>
+
 ## Education
+
+<div align="center">
 
 | 기간 | 과정 | 주관 | 상태 | 시간 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -30,7 +36,11 @@
 | 〔2026.04 ~ 06〕 | **AWS 공인 교육** | 「ICT 이노베이션스퀘어」 | 수료 | 160h |
 | 〔2026.07 ~〕 | **SKALA 4기** | 「SK AX」 | 진행 중 | - |
 
+</div>
+
 ## Projects
+
+<div align="center">
 
 | 프로젝트 | 설명 | 주요 기술 |
 | :-- | :-- | :-- |
@@ -38,6 +48,8 @@
 | [**Drift Gate**](https://github.com/cres17/pr-convention-checker) | 코드가 바뀌었는데 API 명세 · `.env.example` 등 문서가 따라오지 않은 PR을 YAML 정책으로 판정하는 도구 | Python, Tree-sitter, PySide6, React |
 | [**Book해도.**](https://github.com/cres17/bookhaedo) | 홋카이도 여행 일정을 동행자와 함께 짜고, 날씨가 바뀌면 공개 관광 자료를 근거로 대안 코스를 추천하는 웹 서비스 | Vue 3, Express, PostgreSQL · PostGIS, LangGraph.js |
 | [**Memoria**](https://github.com/cres17/memoria) | 서버 없이 기기 안에서 사진을 보정하고, 참조 사진의 색을 65³ LUT 필터로 만들어 다시 쓰는 iOS 사진 편집 앱 | Flutter, LiteRT, PyTorch → ONNX → TFLite, Swift |
+
+</div>
 
 ## Contact
 
